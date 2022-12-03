@@ -1,6 +1,6 @@
 # Repositorio - Projeto de Estudos Para a Maratona de Programacao Utilizando a Plataforma BEECROWD
-Projeto de estudos para a Maratona de Programacao utilizando a plataforma <a href="https://www.beecrowd.com.br">BeeCrowd</a>.
-Este projeto esta sendo desenvolvido por alunos do IFCE - Campus Tiangua.
+Projeto de estudos para a Maratona de Programação utilizando a plataforma <a href="https://www.beecrowd.com.br">BeeCrowd</a>.
+Este projeto está sendo desenvolvido por alunos do IFCE - Campus Tianguá.
 
 ## Estudos Extras
 Licenca Software: <a href="https://pt.wikipedia.org/wiki/Licen%C3%A7a_de_software">Clique Aqui</a><br>
