@@ -5,7 +5,7 @@ Este projeto está sendo desenvolvido por alunos do IFCE - Campus Tianguá.
 ## Alunos
 Esrael - <a href="">Perfil</a><br>
 Ricardo Martins Cordeiro - <a href="">Perfil</a><br>
-
+Wanderson Gomes da Costa - <a href="">Perfil</a><br>
 
 ## Estudos Extras
 Licenca Software: <a href="https://pt.wikipedia.org/wiki/Licen%C3%A7a_de_software">Clique Aqui</a><br>
