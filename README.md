@@ -3,7 +3,9 @@ Projeto de estudos para a Maratona de Programação utilizando a plataforma <a h
 Este projeto está sendo desenvolvido por alunos do IFCE - Campus Tianguá.
 
 ## Alunos
-Ricardo Martins Cordeiro
+Esrael - <a href="">Perfil</a><br>
+Ricardo Martins Cordeiro - <a href="">Perfil</a><br>
+
 
 ## Estudos Extras
 Licenca Software: <a href="https://pt.wikipedia.org/wiki/Licen%C3%A7a_de_software">Clique Aqui</a><br>
