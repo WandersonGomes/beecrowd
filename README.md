@@ -3,7 +3,7 @@ Projeto de estudos para a Maratona de Programação utilizando a plataforma <a h
 Este projeto está sendo desenvolvido por alunos do IFCE - Campus Tianguá.
 
 ## Alunos
-Esrael - <a href="">Perfil</a><br>
+Esrael Sousa - <a href="">Perfil</a><br>
 Ricardo Martins Cordeiro - <a href="">Perfil</a><br>
 Wanderson Gomes da Costa - <a href="">Perfil</a><br>
 
